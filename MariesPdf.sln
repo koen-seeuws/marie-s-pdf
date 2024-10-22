@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Core", "1. Core", "{669E39DC-BFF4-4EBA-8E0B-4729D8A3A3B3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Application", "2. Application", "{3C1E46EE-7644-4F6D-A88C-72C3227CD98D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Infrastructure", "3. Infrastructure", "{5C5FAB75-13B1-435F-A575-221BD5C3714C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Presentation", "4. Presentation", "{5013A2DA-1D24-42AE-A79A-92BC2B36636D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MariesPdf.Presentation.Editor", "MariesPdf.Presentation.Editor\MariesPdf.Presentation.Editor.csproj", "{40C8A2E0-ED64-4096-97C0-06276A88F644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40C8A2E0-ED64-4096-97C0-06276A88F644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C8A2E0-ED64-4096-97C0-06276A88F644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C8A2E0-ED64-4096-97C0-06276A88F644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C8A2E0-ED64-4096-97C0-06276A88F644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{40C8A2E0-ED64-4096-97C0-06276A88F644} = {5013A2DA-1D24-42AE-A79A-92BC2B36636D}
+	EndGlobalSection
+EndGlobal
